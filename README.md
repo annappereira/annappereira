@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**annappereira/annappereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Meu nome é Ana Paula
+- Sou professora de Química e Tecnologia
+- Estou acompanhando os alunos na [Alura] (https://www.alura.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Você pode me contatar no email 
+
+anapereirap@prof.educacao.sp.gov.br
+
+![coração] (https://tenor.com/pt-BR/view/object-heart-love-bottle-thing-gif-1259213157243730772)
+  
