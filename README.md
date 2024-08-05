@@ -11,5 +11,3 @@
 anapereirap@prof.educacao.sp.gov.br
 
 
-![](https://tenor.com/pt-BR/view/object-heart-love-bottle-thing-gif-1259213157243730772)
-  
